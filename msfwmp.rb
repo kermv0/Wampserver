@@ -17,7 +17,7 @@ class MetasploitModule < Msf::Post
           This module exploits a dll hijacking in WampServer 3 (wampmanager.exe)
         },
         'License'       => MSF_LICENSE,
-        'Author'        => [ 'Vasilis vkermelis@ssl-unipi.gr' ],
+        'Author'        => [ 'Vasilis ' ],
         'Platform'      => [ 'win' ],
         'SessionTypes'  => [ 'meterpreter', 'shell' ]
     ))
